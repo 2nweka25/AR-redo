@@ -83,8 +83,6 @@ function staticLoadPlaces() {
         const div = document.querySelector('.instructions');
         div.innerText = model.info;
     };
-    
-
 
     function renderPlaces(places) {
         let scene = document.querySelector('a-scene');
