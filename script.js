@@ -40,7 +40,7 @@ function staticLoadPlaces() {
     var models = [
         {
             url: './assets/tree.gltf',
-            scale: '0.5 0.5 0.5',
+            scale: '0.1 0.1 0.1',
             info: 'The Next clue is at the Greek word for an "Empty tomb", look out for the bow without an arrow',
             rotation: '0 180 0',
         },
