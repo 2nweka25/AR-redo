@@ -71,11 +71,11 @@ function staticLoadPlaces() {
     ];
     }
 
-    
+
     var models = [
         {
             url: './assets/tree.gltf',
-            scale: '0.08 0.08',
+            scale: '0.8 0.8 0.8',
             info: 'The Next clue is at the Greek word for an "Empty tomb", look out for the bow without an arrow',
             rotation: '0 180 0',
         },
