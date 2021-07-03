@@ -71,6 +71,7 @@ function staticLoadPlaces() {
     ];
     }
 
+    
     var models = [
         {
             url: './assets/tree.gltf',
