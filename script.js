@@ -14,11 +14,7 @@ function init()
 
         );
     }
-    else
-    {
-        alert("Sorry, geolocation not supported in this browser");
-    }
-}
+    
 
 
 window.onload = () => {
@@ -143,3 +139,4 @@ function staticLoadPlaces() {
     };
 
     id = navigator.geolocation.watchPosition(success, options)
+}
